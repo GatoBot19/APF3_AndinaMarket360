@@ -5,11 +5,10 @@
 
 ### DATOS GENERALES DE ENTREGA
 - **Integrantes del Equipo:**
-  1. **Guerrero Garcia Diogo Xammyr**
-  2. **Simon Condori Sebastian Simon**
-  3. **Huayta Cardenas RONALDHIÑO CRISTHIAN**
-  4. **Casma Callañaupa Nick Arnold**
-  5. **Neyra Ramos Jose Jeanpiere**
+  1. **Diego Alonso Mucha Umora**
+  2. **Alisson Damariz Mora Vasquez**
+  3. **Marcelo Carlos Rojas Cáceres**
+  4. **David Eduardo Quiroga Mestanza**
 - **Repositorio Oficial del Proyecto:** [https://github.com/GatoBot19/APF3_AndinaMarket360](https://github.com/GatoBot19/APF3_AndinaMarket360)
 - **Sitio Web en Vivo (GitHub Pages):** [https://gatobot19.github.io/APF3_AndinaMarket360/](https://gatobot19.github.io/APF3_AndinaMarket360/)
 - **Versión Oficial Publicada:** `v1.0.0` - Lanzamiento inicial en Releases

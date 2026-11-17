@@ -372,11 +372,11 @@ def generar_html():
       <div class="info-label">Integrantes del Equipo:</div>
       <div class="info-val">
         <ol style="margin: 0; padding-left: 20px; line-height: 1.6;">
-          <li><strong>Guerrero Garcia Diogo Xammyr</strong></li>
-          <li><strong>Simon Condori Sebastian Simon</strong></li>
-          <li><strong>Huayta Cardenas RONALDHIÑO CRISTHIAN</strong></li>
-          <li><strong>Casma Callañaupa Nick Arnold</strong></li>
-          <li><strong>Neyra Ramos Jose Jeanpiere</strong></li>
+          <li><strong>Diego Alonso Mucha Umora</strong></li>
+          <li><strong>Alisson Damariz Mora Vasquez</strong></li>
+          <li><strong>Marcelo Carlos Rojas Cáceres</strong></li>
+          <li><strong>David Eduardo Quiroga Mestanza</strong></li>
+          
         </ol>
       </div>
     </div>

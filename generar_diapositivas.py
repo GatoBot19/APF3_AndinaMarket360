@@ -7,11 +7,10 @@ CAPTURAS_DIR = BASE_DIR / "evidencias" / "capturas"
 HTML_OUT = BASE_DIR / "diapositivas.html"
 
 INTEGRANTES = [
-    "Guerrero Garcia Diogo Xammyr",
-    "Simon Condori Sebastian Simon",
-    "Huayta Cardenas RONALDHIÑO CRISTHIAN",
-    "Casma Callañaupa Nick Arnold",
-    "Neyra Ramos Jose Jeanpiere"
+    "Diego Alonso Mucha Umora",
+    "Alisson Damariz Mora Vasquez",
+    "Marcelo Carlos Rojas Caceres",
+    "David Eduardo Quiroga Mestanza"
 ]
 
 SLIDES_DATA = [
